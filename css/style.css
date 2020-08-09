@@ -227,7 +227,6 @@ section{
 }
 .image--contact {
     background: url(../img/contact.png) no-repeat center;
-    background-size: cover;
 }
 .image--about {
     background: url(../img/about2.png) no-repeat center;
@@ -294,7 +293,7 @@ section{
 }
 
 .page-top .image__reile {
-  background: url(../img/portfolio.png) no-repeat center;
+  background: url((../SCimg/2.jpg) no-repeat center;
   background-size: cover;
 }
 .page-top .image__about {
