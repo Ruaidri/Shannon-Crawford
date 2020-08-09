@@ -294,7 +294,7 @@ section{
 }
 
 .page-top .image__reile {
-  background: url(../SCimg/2.jpg) no-repeat center;
+  background: url(../img/portfolio.png) no-repeat center;
   background-size: cover;
 }
 .page-top .image__about {
@@ -830,6 +830,7 @@ p {
 /* Hide the slides by default */
 .mySlides {
   display: none;
+  background-color: black;
 }
 
 /* Next & previous buttons */
@@ -894,8 +895,4 @@ img.hover-shadow {
 
 .hover-shadow:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.column{
- display: inline-flex; 
 }
