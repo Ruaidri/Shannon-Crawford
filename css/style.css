@@ -293,7 +293,7 @@ section{
 }
 
 .page-top .image__reile {
-  background: url((../SCimg/2.jpg) no-repeat center;
+  background: url(../SCimg/2.jpg) no-repeat center;
   background-size: cover;
 }
 .page-top .image__about {
@@ -514,7 +514,7 @@ p {
   position: absolute;
   width: 35%;
   left: 45%;
-  margin-top: 230px;
+  margin-top: 20px;
 }
 
 .git-img {
